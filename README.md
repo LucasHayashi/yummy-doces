@@ -20,4 +20,4 @@
 | Usuário | Senha |
 | ------ | ------ |
 | admin | admin |
-| senha | senha |
+| usuario | usuario |
